@@ -1,6 +1,5 @@
 import styled from 'styled-components'
 import { cores } from '../../styles'
-cores
 
 export const Form = styled.form`
   height: 360px;
